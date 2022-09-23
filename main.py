@@ -1,3 +1,5 @@
+import googlefinance
+
 def main():
     print("Hello World")
 
